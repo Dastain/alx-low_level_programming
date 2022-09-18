@@ -3,14 +3,12 @@
 
 int main(void)
 {
-int i =34;
-	if(i >= 34){
-	putchar(97);
-	putchar('\n');
-	printf("who re u: %d\n", i);
-	}
-	else
+int i;
+
+	for  (i = 97; i < 103; i++)
 	{
-		printf("pls input a bigger digit\n");
+		putchar(i);
 	}
-		 }
+return (0);
+
+}
