@@ -2,7 +2,8 @@
 
 /**
  * swap_int - swap veriable
- *
+ * @a: first parameter
+ * @b: second parameter
  * Return: 0
  *
  */
